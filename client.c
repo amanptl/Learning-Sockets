@@ -1,9 +1,3 @@
-/**
- * Team
- * 
- * Harsh Sodiwala   - 105186258
- * Aman Patel       - 110005849
- */ 
 
 #include <stdio.h>
 #include <sys/types.h>
