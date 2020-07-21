@@ -1,4 +1,4 @@
-# Game using sockets
+# Dice Game using sockets
 
 ## Description
 Built the classic two-player dice game using web socket programming and leveraging traditional client-server architecture.
